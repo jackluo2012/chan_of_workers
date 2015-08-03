@@ -1,4 +1,4 @@
-# chan_of_workers
+# Chan of Workers
 
 A scaffolding for a simple job queue systems with a dispatcher and some workers
 ... written easily in Go - #channels #golang #queues
